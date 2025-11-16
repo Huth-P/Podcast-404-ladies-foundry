@@ -1,3 +1,10 @@
+
+
+
+<img width="1184" height="864" alt="404 Ladies Foundry Podcast_logo" src="https://github.com/user-attachments/assets/31bb917c-8ba3-4ac1-9b38-6ae43ae2d380" />
+
+
+
 404 Ladies Foundry — AI Podcast Project
 
 This repository contains the complete work for the 404 Ladies Foundry podcast prototype, created as part of the DIO AI course.
@@ -80,3 +87,9 @@ https://open.spotify.com/episode/7xZFC4Cp5jPAKpneF2KyIM?si=b2IvVYKZRtyQ3ujhkgQqT
 🙋‍♀️ Author
 
 Project created by Pamela V. Huth (Huth-P) as part of the Universia/DIO AI Certification.
+
+
+
+
+<img width="1184" height="864" alt="404 Ladies Foundry Podcast_cover" src="https://github.com/user-attachments/assets/cf0e08a6-b689-4546-a87f-0dbf76aa6c38" />
+
