@@ -1,38 +1,75 @@
-cat > README.md <<'EOF'
-# 404 Ladies Foundry 🎙️
+404 Ladies Foundry — AI Podcast Project
 
-**ENGLISH / PORTUGUÊS**
+This repository contains the complete work for the 404 Ladies Foundry podcast prototype, created as part of the DIO AI course.
+The goal of this project was to produce a full podcast episode using generative AI, demonstrating the entire workflow from script creation to final audio and artwork.
 
----
 
-## About / Sobre
+🎙️ About the Project
 
-**404 Ladies Foundry** is a podcast for women in tech, AI and programming — and for anyone who wants to feel the power of curiosity.  
-Hosts: **Luna** (42, ex-lawyer turned tech enthusiast) and **Clara** (26, AI researcher and computer scientist).
+404 Ladies Foundry is a fictional podcast hosted by two characters generated with AI:
 
-**404 Ladies Foundry** é um podcast para mulheres em tecnologia, IA e programação — e para qualquer pessoa que queira sentir o poder da curiosidade.  
-Apresentadoras: **Luna** (42, ex-advogada que virou entusiasta de tech) e **Clara** (26, pesquisadora de IA e cientista da computação).
+Luna, 42, career-changing and curious about AI
+Clara, 26, AI researcher, energetic and humorous
 
----
+The theme of the show is women navigating careers, technology and AI, presented in a friendly and motivating tone.
 
-## Episode 1 / Episódio 1
+This repository includes the complete Episode 1, in English and Portuguese, along with audio assets, transcripts, and production notes.
 
-**Title / Título:** Welcome to the Foundry: Why AI Needs More Women (and Why We’re Here) / Bem-vindas à Foundry: Por que a IA precisa de mais mulheres (e por que estamos aqui)
 
-**Files:**  
-- `episodes/ep001/ep001_script_en.txt` (English script ready for TTS)  
-- `episodes/ep001/ep001_script_pt.txt` (Portuguese translated script)  
-- `episodes/ep001/ep001_transcription.md` (Bilingual transcription with timestamps)
+🚀 Tools Used
 
-**Duration / Duração:** ~4m54s (actual recording may vary)
+This project demonstrates real-world use of generative AI applied to multimedia creation.
 
----
 
-## Project structure / Estrutura do projeto
+🔹 ChatGPT (OpenAI)
 
----
+Used to generate:
+Episode scripts (English + Portuguese)
+Definitions of the characters
+Episode structure and segments
+Show descriptions and summaries
+Instructions and documentation
 
-**Spotify:**
+🔹 ElevenLabs
+
+Used to generate:
+Text-to-Speech voices for Clara and Luna
+Final TTS audio files (MP3)
+
+🔹 Adobe Firefly
+
+Used to:
+Generate cover art for the episode
+Create a unified visual identity for the podcast
+
+🔹 CapCut / Audacity
+
+Used for:
+Audio editing
+Cutting, adjusting, normalizing volume
+Mixing Clara and Luna's voices
+Creating the final episode track
+
+🔹 FreeConvert MP3 Compressor
+
+Used to:
+Reduce MP3 file size for upload and streaming
+Optimize for platforms with upload limits
+
+🔹 Spotify for Podcasters (Anchor)
+
+Used to:
+Host the podcast
+Upload the final MP3
+Add episode cover
+Publish and generate streaming link:
 
 https://open.spotify.com/episode/7xZFC4Cp5jPAKpneF2KyIM?si=b2IvVYKZRtyQ3ujhkgQqTw
 
+
+---
+
+## Episode 1
+
+**Title:** Welcome to the Foundry: Why AI Needs More Women (and Why We’re Here)
+**Duration:** ~4m54s (actual recording may vary)
