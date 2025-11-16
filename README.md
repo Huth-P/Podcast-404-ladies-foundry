@@ -30,3 +30,9 @@ Apresentadoras: **Luna** (42, ex-advogada que virou entusiasta de tech) e **Clar
 
 ## Project structure / Estrutura do projeto
 
+---
+
+**Spotify:**
+
+https://open.spotify.com/episode/7xZFC4Cp5jPAKpneF2KyIM?si=b2IvVYKZRtyQ3ujhkgQqTw
+
