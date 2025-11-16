@@ -1,0 +1,121 @@
+🔄 Production Pipeline (Step-by-Step)
+
+This is the exact workflow used to produce Episode 1.
+
+
+1️⃣ Script Generation — ChatGPT
+
+Steps performed:
+Define the two characters.
+Generate full episode script in English.
+Translate to Portuguese.
+Adjust tone (friendly, motivating, funny).
+Split script into segments for TTS.
+
+Files stored in:
+episodes/ep001/script_en.txt  
+episodes/ep001/script_pt.txt
+episodes/ep001/ep001_transcription.md
+
+
+2️⃣ Voice Generation — ElevenLabs
+
+Steps performed:
+Copy each script segment into ElevenLabs.
+Test and select two voices (one for Luna, one for Clara).
+Generate MP3 for each segment.
+
+Voice Luna: Lily (11elevenlabs)
+Voice Clara: Jessica (11elevenlabs)
+
+Save all files inside:
+assets/raw_tts/
+assets/raw_tts/segments/
+
+
+3️⃣ Audio Editing — CapCut / Audacity
+
+Steps performed:
+Import all TTS segments.
+Remove noise & silences.
+Adjust pacing and pauses.
+Mix the two voices so the conversation flows naturally.
+Add intro/sound effects.
+Export final MP4.
+Convert into MP3.
+Compress using FreeConvert MP3 Compressor.
+
+Final file saved to:
+episodes/ep001/output/Ep.001_404 Ladies Foundry Podcast.mp3
+
+
+4️⃣ Cover Art — Adobe Firefly
+
+Steps performed:
+Generate prompt describing the style & concept of the podcast.
+Create as much variations as you need.
+Select the final image.
+Export at high resolution.
+
+Final artwork stored in:
+assets/404 Ladies Foundry Podcast_cover.png
+assets/404 Ladies Foundry Podcast_logo.png
+
+
+5️⃣ Publishing — Spotify for Podcasters (Anchor)
+
+Steps performed:
+Upload episode-final.mp3
+Upload ep001_cover.png
+Upload Podcast_logo.png
+Add description + show notes
+Publish or save as draft
+Copy streaming link (optional for assignment)
+
+Link Spotify: https://open.spotify.com/episode/7xZFC4Cp5jPAKpneF2KyIM?si=b2IvVYKZRtyQ3ujhkgQqTw
+
+📝 Files Included for Review
+
+The teacher/evaluator can review:
+
+✔ Scripts (EN + PT)
+✔ TTS raw segments
+✔ Final mixed audio
+✔ Cover art
+✔ Full production pipeline
+✔ Comprehensive README
+✔ Transcriptions with timestamps
+
+Everything needed to understand or reproduce the episode is inside this repository.
+
+
+🎯 Project Goals (Universia Santander/DIO Requirement)
+
+This project demonstrates practical application of AI for creative multimedia production, covering:
+
+Text generation
+Voice synthesis
+Image generation
+Editing and assembly
+Publishing workflow
+Multi-language production
+
+
+The result is a complete podcast episode and a reproducible production pipeline.
+
+
+📌 How to Reproduce (Simple Version)
+
+Generate a script using ChatGPT
+Generate TTS voices using ElevenLabs
+Edit the audio using CapCut/Audacity
+Generate cover art using Firefly
+Export MP4
+Convert into MP3 (just change the archive extension name)
+Compress with FreeConvert (optional, but necessary if upload at Spotify)
+Upload to Spotify/Anchor
+
+
+
+🙋‍♀️ Author
+Project created by Pamela (Huth-P) as part of the DIO AI Certification.
