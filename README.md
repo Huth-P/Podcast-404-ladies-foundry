@@ -3,6 +3,7 @@
 This repository contains the complete work for the 404 Ladies Foundry podcast prototype, created as part of the DIO AI course.
 The goal of this project was to produce a full podcast episode using generative AI, demonstrating the entire workflow from script creation to final audio and artwork.
 
+---
 
 🎙️ About the Project
 
