@@ -118,4 +118,4 @@ Upload to Spotify/Anchor
 
 
 🙋‍♀️ Author
-Project created by Pamela (Huth-P) as part of the DIO AI Certification.
+Project created by Pamela (Huth-P) as part of the Universia Santander/DIO AI Certification.
