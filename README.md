@@ -73,3 +73,9 @@ https://open.spotify.com/episode/7xZFC4Cp5jPAKpneF2KyIM?si=b2IvVYKZRtyQ3ujhkgQqT
 
 **Title:** Welcome to the Foundry: Why AI Needs More Women (and Why We’re Here)
 **Duration:** ~4m54s (actual recording may vary)
+
+---
+
+🙋‍♀️ Author
+
+Project created by Pamela V. Huth (Huth-P) as part of the Universia/DIO AI Certification.
