@@ -86,7 +86,7 @@ https://open.spotify.com/episode/7xZFC4Cp5jPAKpneF2KyIM?si=b2IvVYKZRtyQ3ujhkgQqT
 
 🙋‍♀️ Author
 
-Project created by Pamela V. Huth (Huth-P) as part of the Universia/DIO AI Certification.
+Project created by Pamela V. Huth (Huth-P) as part of the Santander_Universia/DIO AI Certification.
 
 
 
